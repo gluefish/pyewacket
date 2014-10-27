@@ -4,6 +4,8 @@ Pyewacket was the name of a cat in the novel Bell, Book and Candle.  It was also
 
 Py, of course, refers to Python, the scripting language / programming language (depending on your point of view).  Wa refers to Web Application.  T is for Testing.  Cke is still up for grabs.  You choose.
 
+[![Downloads](https://pypip.in/d/gspread/badge.png)](https://crate.io/packages/gspread)
+
 ##Description
 
 Web applications are in short, web pages being made available to various browsers such as Google Chrome, Firefox, Internet Explorer, Safari, and phantomJS.  Whenever you type an address into the address bar of the browser and hit enter, assuming you have an internet connection, the result is that you see a web page appear on the screen.  
