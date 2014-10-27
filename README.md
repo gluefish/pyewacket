@@ -4,7 +4,7 @@ Pyewacket was the name of a cat in the novel Bell, Book and Candle.  It was also
 
 Py, of course, refers to Python, the scripting language / programming language (depending on your point of view).  Wa refers to Web Application.  T is for Testing.  Cke is still up for grabs.  You choose.
 
-![logo](https://raw.github.com/burnash/gspread/master/gspread.png "")
+![logo](http://www.gluefish.com/Documents/pyewacket/pyewacket.png "")
 
 ##Description
 
